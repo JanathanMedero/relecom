@@ -21,7 +21,7 @@
 								<nav> 
 									<ul id="navigation">                                                                                                                   
 										<li><a href="index.html">Inicio</a></li>
-										<li><a href="about.html">Acerca de</a></li>
+										<li><a href="about.html">Nosotros</a></li>
 										<li><a href="project.html">Proyectos</a></li>
 										<li><a href="services.html">Servicios</a></li>
 										{{-- <li><a href="blog.html">Blog</a>
@@ -37,14 +37,13 @@
 												<li><a href="services_details.html">Services Details</a></li>
 											</ul>
 										</li> --}}
-										<li><a href="contact.html">Contact</a></li>
 									</ul>
 								</nav>
 							</div>
 						</div>             
 						<div class="col-xl-2 col-lg-2 col-md-3">
 							<div class="header-right-btn f-right d-none d-lg-block">
-								<a href="#" class="btn">Contact Now</a>
+								<a href="#" class="btn">Contactanos</a>
 							</div>
 						</div>
 						<!-- Mobile Menu -->

@@ -6,4 +6,6 @@
 
 	<x-slider-area></x-slider-area>
 
+	<x-services></x-services>
+
 @endsection
