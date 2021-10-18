@@ -1,24 +1,84 @@
 <!-- About Area Start -->
-<section class="support-company-area fix pt-10">
+<section class="support-company-area fix pt-10 mb-55">
 	<div class="support-wrapper align-items-end">
 		<div class="left-content">
 			<!-- section tittle -->
 			<div class="section-tittle section-tittle2 mb-55">
 				<div class="front-text">
-					<h2 class="">Who we are</h2>
+					<h2 class="">Trabajos realizados</h2>
 				</div>
-				<span class="back-text">About us</span>
+				<span class="back-text">Trabajos realizados</span>
 			</div>
-			<div class="support-caption">
-				<p class="pera-top">Mollit anim laborum duis au dolor in voluptcate velit ess cillum dolore eu lore dsu quality mollit anim laborumuis au dolor in voluptate velit cillu.</p>
-				<p>Mollit anim laborum.Dvcuis aute iruxvfg dhjkolohr in re voluptate velit esscillumlore eu quife nrulla parihatur. Excghcepteur sfwsignjnt occa cupidatat non aute iruxvfg dhjinulpadeserunt mollitemnth incididbnt ut;o5tu layjobore mofllit anim.</p>
-				<a href="about.html" class="btn red-btn2">read more</a>
+
+			<div class="row my-4" style="margin-bottom: 32px;">
+				<div class="col-md-2">
+					<img src="{{ asset('assets/img/icon/tower.png') }}" class="img-fluid">
+				</div>
+				<div class="col-md-10">
+					<div class="row d-flex align-items-center" style="height: 83px;">
+						<div class="col-md-12">
+							<p style="font-size: 24px;" class="mb-0"><strong>Torre de telecomunicaciones</strong></p>
+						</div>
+						<div class="col-md-12">
+							<p class="text-muted mb-0">Estudios de suelo, levantamiento topográfico, obra civil</p>
+						</div>
+					</div>
+				</div>
 			</div>
+
+			<div class="row my-4" style="margin-bottom: 32px;">
+				<div class="col-md-2">
+					<img src="{{ asset('assets/img/icon/communication.png') }}" class="img-fluid">
+				</div>
+				<div class="col-md-10">
+					<div class="row d-flex align-items-center" style="height: 83px;">
+						<div class="col-md-12">
+							<p style="font-size: 24px;" class="mb-0"><strong>Redes de telecomunicaciones</strong></p>
+						</div>
+						<div class="col-md-12">
+							<p class="text-muted mb-0">Instalación de cable de Fibra Óptica aérea y subterránea</p>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="row my-4" style="margin-bottom: 32px;">
+				<div class="col-md-2">
+					<img src="{{ asset('assets/img/icon/computer-networks.png') }}" class="img-fluid">
+				</div>
+				<div class="col-md-10">
+					<div class="row d-flex align-items-center" style="height: 83px;">
+						<div class="col-md-12">
+							<p style="font-size: 24px;" class="mb-0"><strong>Mantenimiento de redes y cableado</strong></p>
+						</div>
+						<div class="col-md-12">
+							<p class="text-muted mb-0">Mantenimiento preventivo y correctivo shelter de telecomunicaciones</p>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="row my-4" style="margin-bottom: 32px;">
+				<div class="col-md-2">
+					<img src="{{ asset('assets/img/icon/audit.png') }}" class="img-fluid">
+				</div>
+				<div class="col-md-10">
+					<div class="row d-flex align-items-center" style="height: 83px;">
+						<div class="col-md-12">
+							<p style="font-size: 24px;" class="mb-0"><strong>Servicios adicionales</strong></p>
+						</div>
+						<div class="col-md-12">
+							<p class="text-muted mb-0">Sistemas de control en sistemas contra incendios, auditorias, CCTV</p>
+						</div>
+					</div>
+				</div>
+			</div>
+
 		</div>
 		<div class="right-content">
 			<!-- img -->
 			<div class="right-img">
-				<img src="assets/img/gallery/safe_in.png" alt="">
+				<img src="{{ asset('assets/img/gallery/tower.jpg') }}" alt="tower.jpg">
 			</div>
 			<div class="support-img-cap text-center">
 				<span>1994</span>

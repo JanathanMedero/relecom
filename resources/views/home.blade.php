@@ -8,4 +8,6 @@
 
 	<x-services></x-services>
 
+	<x-projects></x-projects>
+
 @endsection
