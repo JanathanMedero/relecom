@@ -1,1 +1,5 @@
-<img src="{{ asset('assets/images/logo.png') }}">
+@extends('layouts.main')
+
+@section('content')
+
+@endsection
