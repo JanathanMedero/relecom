@@ -5,7 +5,7 @@
 			<!-- section tittle -->
 			<div class="section-tittle section-tittle2 mb-55">
 				<div class="front-text">
-					<h2 class="">Trabajos realizados</h2>
+					<h2 class="" style="font-size: 60px;">Trabajos realizados</h2>
 				</div>
 				<span class="back-text">Trabajos realizados</span>
 			</div>

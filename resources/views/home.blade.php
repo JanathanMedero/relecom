@@ -10,4 +10,8 @@
 
 	<x-projects></x-projects>
 
+	<x-works></x-works>
+
+	<x-experiences></x-experiences>
+
 @endsection
