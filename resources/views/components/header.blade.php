@@ -12,7 +12,7 @@
 								<!-- logo-1 -->
 								<a href="{{ route('home') }}" class="big-logo"><img src="{{ asset('assets/img/logo.png') }}" alt="Relecom"></a>
 								<!-- logo-2 -->
-								<a href="index.html" class="small-logo"><img src="assets/img/logo/loder-logo.png" alt=""></a>
+								<a href="{{ route('home') }}" class="small-logo"><img src="{{ asset('assets/img/logo.png') }}" alt="Relecom"></a>
 							</div>
 						</div>
 						<div class="col-xl-8 col-lg-8 col-md-8">

@@ -6,14 +6,13 @@
 					<div class="front-text">
 						<h2 class="" style="font-size: 60px;">¿Que hacemos?</h2>
 					</div>
-					<span class="back-text">¿Que hacemos?</span>
 				</div>
 			</div>
 		</div>
 
 		<div class="row mb-4">
 
-			<div class="col-md-4">
+			<div class="col-md-6 col-lg-4 mb-4">
 				<div class="card" style="width: 100%;">
 					<img class="card-img-top" src="{{ asset('assets/img/works/telecommunication.jpg') }}" alt="Card image cap">
 					<div class="card-body" style="min-height: 220px;">
@@ -23,7 +22,7 @@
 				</div>
 			</div>
 
-			<div class="col-md-4">
+			<div class="col-md-6 col-lg-4 mb-4">
 				<div class="card" style="width: 100%;">
 					<img class="card-img-top" src="{{ asset('assets/img/works/power-lines.jpg') }}" alt="Card image cap">
 					<div class="card-body">
@@ -33,7 +32,7 @@
 				</div>
 			</div>
 
-			<div class="col-md-4">
+			<div class="col-md-6 col-lg-4 mb-4">
 				<div class="card" style="width: 100%;">
 					<img class="card-img-top" src="{{ asset('assets/img/works/network-cable.jpg') }}" alt="Card image cap">
 					<div class="card-body" style="min-height: 220px;">
@@ -43,13 +42,7 @@
 				</div>
 			</div>
 
-
-
-		</div>
-
-		<div class="row">
-
-			<div class="col-md-4">
+			<div class="col-md-6 col-lg-4 mb-4">
 				<div class="card" style="width: 100%;">
 					<img class="card-img-top" src="{{ asset('assets/img/works/machine.jpg') }}" alt="Card image cap">
 					<div class="card-body">
@@ -59,7 +52,7 @@
 				</div>
 			</div>
 
-			<div class="col-md-4">
+			<div class="col-md-6 col-lg-4 mb-4">
 				<div class="card" style="width: 100%;">
 					<img class="card-img-top" src="{{ asset('assets/img/works/air.jpg') }}" alt="Card image cap">
 					<div class="card-body">
@@ -69,7 +62,7 @@
 				</div>
 			</div>
 
-			<div class="col-md-4">
+			<div class="col-md-6 col-lg-4 mb-4">
 				<div class="card" style="width: 100%;">
 					<img class="card-img-top" src="{{ asset('assets/img/works/control-center.jpg') }}" alt="Card image cap">
 					<div class="card-body" style="min-height: 196px;">
@@ -82,6 +75,5 @@
 
 
 		</div>
-
 	</div>
 </div>

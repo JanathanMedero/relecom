@@ -11,10 +11,10 @@
 			</div>
 
 			<div class="row my-4" style="margin-bottom: 32px;">
-				<div class="col-md-2">
+				<div class="col-2">
 					<img src="{{ asset('assets/img/icon/tower.png') }}" class="img-fluid">
 				</div>
-				<div class="col-md-10">
+				<div class="col-10">
 					<div class="row d-flex align-items-center" style="height: 83px;">
 						<div class="col-md-12">
 							<p style="font-size: 24px;" class="mb-0"><strong>Torre de telecomunicaciones</strong></p>
@@ -27,10 +27,10 @@
 			</div>
 
 			<div class="row my-4" style="margin-bottom: 32px;">
-				<div class="col-md-2">
+				<div class="col-2">
 					<img src="{{ asset('assets/img/icon/communication.png') }}" class="img-fluid">
 				</div>
-				<div class="col-md-10">
+				<div class="col-10">
 					<div class="row d-flex align-items-center" style="height: 83px;">
 						<div class="col-md-12">
 							<p style="font-size: 24px;" class="mb-0"><strong>Redes de telecomunicaciones</strong></p>
@@ -43,10 +43,10 @@
 			</div>
 
 			<div class="row my-4" style="margin-bottom: 32px;">
-				<div class="col-md-2">
+				<div class="col-2">
 					<img src="{{ asset('assets/img/icon/computer-networks.png') }}" class="img-fluid">
 				</div>
-				<div class="col-md-10">
+				<div class="col-10">
 					<div class="row d-flex align-items-center" style="height: 83px;">
 						<div class="col-md-12">
 							<p style="font-size: 24px;" class="mb-0"><strong>Mantenimiento de redes y cableado</strong></p>
@@ -59,10 +59,10 @@
 			</div>
 
 			<div class="row my-4" style="margin-bottom: 32px;">
-				<div class="col-md-2">
+				<div class="col-2">
 					<img src="{{ asset('assets/img/icon/audit.png') }}" class="img-fluid">
 				</div>
-				<div class="col-md-10">
+				<div class="col-10">
 					<div class="row d-flex align-items-center" style="height: 83px;">
 						<div class="col-md-12">
 							<p style="font-size: 24px;" class="mb-0"><strong>Servicios adicionales</strong></p>
@@ -75,7 +75,8 @@
 			</div>
 
 		</div>
-		<div class="right-content">
+
+		<div class="right-content d-sm-none d-md-none d-lg-block">
 			<!-- img -->
 			<div class="right-img">
 				<img src="{{ asset('assets/img/gallery/tower.jpg') }}" alt="tower.jpg">
