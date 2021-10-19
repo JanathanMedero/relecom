@@ -10,7 +10,7 @@
 						<div class="col-xl-2 col-lg-2 col-md-1">
 							<div class="logo">
 								<!-- logo-1 -->
-								<a href="{{ route('home') }}" class="big-logo"><img src="assets/img/logo.png" alt=""></a>
+								<a href="{{ route('home') }}" class="big-logo"><img src="{{ asset('assets/img/logo.png') }}" alt="Relecom"></a>
 								<!-- logo-2 -->
 								<a href="index.html" class="small-logo"><img src="assets/img/logo/loder-logo.png" alt=""></a>
 							</div>

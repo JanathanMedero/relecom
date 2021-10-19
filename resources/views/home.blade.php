@@ -14,4 +14,6 @@
 
 	<x-experiences></x-experiences>
 
+	<x-footer></x-footer>
+
 @endsection
