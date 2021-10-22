@@ -6,4 +6,8 @@
 
 	<x-about></x-about>
 
+	<x-clients></x-clients>
+
+	<x-footer></x-footer>
+
 @endsection

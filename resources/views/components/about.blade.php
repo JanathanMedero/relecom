@@ -1,5 +1,5 @@
 @push('custom-css')
-    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/custom.css') }}">
+<link rel="stylesheet" type="text/css" href="{{ asset('assets/css/custom.css') }}">
 @endpush
 <!-- slider Area Start-->
 <div class="slider-area ">
@@ -16,8 +16,6 @@
 	</div>
 </div>
 <!-- slider Area End-->
-
-
 <div class="container">
 	<div class="row pt-100 pb-100">
 		<div class="col-md-6 d-flex align-items-center">
@@ -43,7 +41,7 @@
 		</div>
 	</div>
 
-	<div class="row pt-100 pb-100">
+	<div class="row pt-50 pb-50">
 		<div class="col-md-6">
 			<div class="row">
 				<div class="col-md-12">
@@ -67,7 +65,7 @@
 		</div>
 	</div>
 
-	<div class="row pt-100 pb-100">
+	<div class="row pt-50 pb-100">
 		<div class="col-md-6 d-flex align-items-center">
 			<div class="row">
 				<div class="col-md-12">
@@ -90,5 +88,4 @@
 			</div>
 		</div>
 	</div>
-
 </div>
