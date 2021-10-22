@@ -20,8 +20,8 @@
 							<div class="main-menu f-right d-none d-lg-block">
 								<nav> 
 									<ul id="navigation">                                                                                                                   
-										<li><a href="index.html">Inicio</a></li>
-										<li><a href="about.html">Nosotros</a></li>
+										<li><a href="{{ route('home') }}">Inicio</a></li>
+										<li><a href="{{ route('us') }}">Nosotros</a></li>
 										<li><a href="project.html">Proyectos</a></li>
 										<li><a href="services.html">Servicios</a></li>
 										{{-- <li><a href="blog.html">Blog</a>

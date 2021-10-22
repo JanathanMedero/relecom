@@ -18,7 +18,7 @@
 }
 
 .content h2:nth-child(2){
-	color: yellow;
+	color: #F8A626;
 	animation: animate 4s ease-in-out infinite;
 }
 
@@ -72,4 +72,17 @@
 	.subtitle-content{
 		display: none;
 	}
+}
+
+.active{
+	color: blue;
+}
+
+.text-title h2{
+	color:#0e132a;
+	font-size:70px;
+	font-weight:700;
+	line-height:1.2;
+	text-transform:uppercase;
+	font-family:"Teko",sans-serif
 }
