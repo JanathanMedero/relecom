@@ -31,7 +31,7 @@
 					</div>
 				</div>
 
-				<div class="row">
+				<div class="row subtitle-content">
 					<div class="col-md-12 position-relative d-flex justify-content-center" style="margin-top: 8%;">
 						<p class="subtitle">Proyectos Integrales</p>
 					</div>
