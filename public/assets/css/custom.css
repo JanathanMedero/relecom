@@ -40,6 +40,12 @@
 	color: #fff;
 }
 
+@media (min-width: 0px) and (max-width: 2400px) {
+	.title-section{
+		text-align: center;
+	}
+}
+
 @media (min-width: 992px) and (max-width: 1200px) {
 	.content h2{
 		font-size: 6em;
@@ -50,17 +56,39 @@
 	.content h2{
 		font-size: 4em;
 	}
+
+	.container-image-photo{
+		display: flex;
+		align-items: center;
+	}
+
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
 	.content h2{
 		font-size: 3em;
 	}
+
+	.text-title{
+		display: flex;
+		justify-content: center;
+	}
+
+	.image-center{
+		display: flex;
+		justify-content: center;
+	}
+
 }
 
 @media (min-width: 450px) and (max-width: 575px) {
 	.content h2{
 		font-size: 3em;
+	}
+
+	.image-center{
+		display: flex;
+		justify-content: center;
 	}
 }
 
