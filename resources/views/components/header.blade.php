@@ -22,8 +22,8 @@
 									<ul id="navigation">                                                                                                                   
 										<li><a href="{{ route('home') }}">Inicio</a></li>
 										<li><a href="{{ route('us') }}">Nosotros</a></li>
-										<li><a href="project.html">Proyectos</a></li>
-										<li><a href="services.html">Servicios</a></li>
+										{{-- <li><a href="project.html">Proyectos</a></li> --}}
+										<li><a href="{{ route('services') }}">Servicios</a></li>
 										{{-- <li><a href="blog.html">Blog</a>
 											<ul class="submenu">
 												<li><a href="blog.html">Blog</a></li>

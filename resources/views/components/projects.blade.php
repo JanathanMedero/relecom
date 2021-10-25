@@ -82,8 +82,8 @@
 				<img src="{{ asset('assets/img/gallery/tower.jpg') }}" alt="tower.jpg">
 			</div>
 			<div class="support-img-cap text-center">
-				<span>1994</span>
-				<p>Since</p>
+				<span>2011</span>
+				<p>Desde</p>
 			</div>
 		</div>
 	</div>
