@@ -2,7 +2,6 @@
 	<!-- Header Start -->
 	<div class="header-area header-transparent">
 		<div class="main-header ">
-
 			<div class="header-bottom header-sticky">
 				<div class="container-fluid">
 					<div class="row align-items-center">
@@ -19,24 +18,10 @@
 							<!-- Main-menu -->
 							<div class="main-menu f-right d-none d-lg-block">
 								<nav> 
-									<ul id="navigation">                                                                                                                   
+									<ul id="navigation">
 										<li><a href="{{ route('home') }}">Inicio</a></li>
 										<li><a href="{{ route('us') }}">Nosotros</a></li>
-										{{-- <li><a href="project.html">Proyectos</a></li> --}}
 										<li><a href="{{ route('services') }}">Servicios</a></li>
-										{{-- <li><a href="blog.html">Blog</a>
-											<ul class="submenu">
-												<li><a href="blog.html">Blog</a></li>
-												<li><a href="single-blog.html">Blog Details</a></li>
-											</ul>
-										</li> --}}
-										{{-- <li><a href="#">Pages</a>
-											<ul class="submenu">
-												<li><a href="elements.html">Element</a></li>
-												<li><a href="project_details.html">Projects Details</a></li>
-												<li><a href="services_details.html">Services Details</a></li>
-											</ul>
-										</li> --}}
 									</ul>
 								</nav>
 							</div>

@@ -10,13 +10,11 @@
                 </div>
             </div>
         </div>
-
         <div class="row">
             <div class="col-md-5 d-flex align-items-center">
                 <p class="text-capitalize">Levantamiento de sitios de telecomunicaciones para enlaces vía micro ondas o por medio de fibras ópticas, rutas principales y secundarias de ser requeridas por el cliente. Construcción de sitios de telecomunicaciones en obra civil, eléctrica y de comunicaciones.</p>
             </div>
             <div class="col-md-7">
-
                 <div class="row mb-4">
                     <div class="col-md-12">
                         <div class="percentage">
@@ -28,7 +26,6 @@
                         </div>
                     </div>
                 </div>
-
                 <div class="row mb-4">
                     <div class="col-md-12">
                         <div class="percentage">
@@ -40,7 +37,6 @@
                         </div>
                     </div>
                 </div>
-
                 <div class="row mb-4">
                     <div class="col-md-12">
                         <div class="percentage">
@@ -52,7 +48,6 @@
                         </div>
                     </div>
                 </div>
-
                 <div class="row mb-4">
                     <div class="col-md-12">
                         <div class="percentage">
@@ -64,7 +59,6 @@
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
     </div>

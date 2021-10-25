@@ -8,12 +8,7 @@
 						<div class="single-footer-caption mb-30">
 							<!-- logo -->
 							<div class="footer-logo">
-								<a href="index.html"><img src="{{ asset('assets/img/logo.png') }}" alt=""></a>
-							</div>
-							<div class="footer-tittle">
-								<div class="footer-pera">
-									<p class="info1">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore.</p>
-								</div>
+								<a href="{{ route('home') }}"><img src="{{ asset('assets/img/logo.png') }}" alt="Relecom"></a>
 							</div>
 						</div>
 					</div>

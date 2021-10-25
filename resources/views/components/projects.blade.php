@@ -12,7 +12,7 @@
 
 			<div class="row my-4" style="margin-bottom: 32px;">
 				<div class="col-2">
-					<img src="{{ asset('assets/img/icon/tower.png') }}" class="img-fluid">
+					<img src="{{ asset('assets/img/icon/tower.png') }}" alt="Torre de telecomunicaciones" class="img-fluid">
 				</div>
 				<div class="col-10">
 					<div class="row d-flex align-items-center" style="height: 83px;">
@@ -28,7 +28,7 @@
 
 			<div class="row my-4" style="margin-bottom: 32px;">
 				<div class="col-2">
-					<img src="{{ asset('assets/img/icon/communication.png') }}" class="img-fluid">
+					<img src="{{ asset('assets/img/icon/communication.png') }}" alt="Redes de telecomunicaciones" class="img-fluid">
 				</div>
 				<div class="col-10">
 					<div class="row d-flex align-items-center" style="height: 83px;">
@@ -44,7 +44,7 @@
 
 			<div class="row my-4" style="margin-bottom: 32px;">
 				<div class="col-2">
-					<img src="{{ asset('assets/img/icon/computer-networks.png') }}" class="img-fluid">
+					<img src="{{ asset('assets/img/icon/computer-networks.png') }}" alt="Mantenimiento de redes y cableado" class="img-fluid">
 				</div>
 				<div class="col-10">
 					<div class="row d-flex align-items-center" style="height: 83px;">
@@ -60,7 +60,7 @@
 
 			<div class="row my-4" style="margin-bottom: 32px;">
 				<div class="col-2">
-					<img src="{{ asset('assets/img/icon/audit.png') }}" class="img-fluid">
+					<img src="{{ asset('assets/img/icon/audit.png') }}" alt="Servicios adicionales" class="img-fluid">
 				</div>
 				<div class="col-10">
 					<div class="row d-flex align-items-center" style="height: 83px;">
