@@ -40,10 +40,10 @@
 									</ul>
 								</nav>
 							</div>
-						</div>             
+						</div>
 						<div class="col-xl-2 col-lg-2 col-md-3">
 							<div class="header-right-btn f-right d-none d-lg-block">
-								<a href="#" class="btn">Contactanos</a>
+								<a href="{{ route('contact') }}" class="btn">Contactanos</a>
 							</div>
 						</div>
 						<!-- Mobile Menu -->
