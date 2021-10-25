@@ -22,9 +22,10 @@
 							<div class="footer-tittle">
 								<h4>Enlaces rápidos</h4>
 								<ul>
-									<li><a href="#">Nosotros</a></li>
-									<li><a href="#">Proyectos</a></li>
-									<li><a href="#">Servicios</a></li>
+									<li><a href="{{ route('home') }}">Inicio</a></li>
+									<li><a href="{{ route('us') }}">Nosotros</a></li>
+									<li><a href="{{ route('services') }}">Servicios</a></li>
+									<li><a href="{{ route('contact') }}">Contactanos</a></li>
 								</ul>
 							</div>
 						</div>
@@ -34,11 +35,10 @@
 							<div class="footer-tittle">
 								<h4>Contacto</h4>
 								<div class="footer-pera">
-									<p class="info1">198 West 21th Street, Suite 721 New York,NY 10010</p>
+									<p class="info1">Naraxan 359, Felix Ireta 58070. Morelia, Michoacán.</p>
 								</div>
 								<ul>
-									<li>Phone: +95 (0) 123 456 789</li>
-									<li>Cell: +95 (0) 123 456 789</li>
+									<li>Celular: +52 44 34 01 96 35</li>
 								</ul>
 							</div>
 						</div>

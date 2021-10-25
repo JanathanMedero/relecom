@@ -6,6 +6,8 @@
 
 	<x-header-contact></x-header-contact>
 
+	<x-contact-map></x-contact-map>
+
 	<x-footer></x-footer>
 
 @endsection
