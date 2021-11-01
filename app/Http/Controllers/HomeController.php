@@ -13,7 +13,7 @@ class HomeController extends Controller
 
     public function us()
     {
-        return view('us');
+        return view('Us');
     }
 
     public function services()

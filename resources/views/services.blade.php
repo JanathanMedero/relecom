@@ -8,8 +8,6 @@
 
 	<x-gallery-services></x-gallery-services>
 
-	<x-other-services></x-other-services>
-
 	<x-footer></x-footer>
 
 @endsection

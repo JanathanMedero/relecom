@@ -17,7 +17,7 @@
 						<div class="col-xl-8 col-lg-8 col-md-8">
 							<!-- Main-menu -->
 							<div class="main-menu f-right d-none d-lg-block">
-								<nav> 
+								<nav>
 									<ul id="navigation">
 										<li><a href="{{ route('home') }}">Inicio</a></li>
 										<li><a href="{{ route('us') }}">Nosotros</a></li>
