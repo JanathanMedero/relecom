@@ -48,8 +48,8 @@
 		</div>
 
 		<div class="row d-flex justify-content-center">
-			<div class="col-md-6 d-flex justify-content-center">
-				<div class="header-right-btn f-right d-none d-lg-block">
+			<div class="col-sm-6 d-flex justify-content-center">
+				<div class="header-right-btn f-right d-none d-block">
 					<a href="{{ route('services') }}" class="btn">Mostrar todos los servicios</a>
 				</div>
 			</div>
